@@ -1,0 +1,500 @@
+Record 1: -18.04 14.49 28.49 -> Invalid
+Record 2: 95.33 12.07 99.83 -> Valid, Area = 545.39
+Record 3: 62.69 64.12 116.43 -> Valid, Area = 1462.47
+Record 4: 92.92 9.48 89.74 -> Valid, Area = 407.27
+Record 5: 57.31 98.27 93.64 -> Valid, Area = 2615.55
+Record 6: -3.38 33.89 2.43 -> Invalid
+Record 7: 36.91 44.01 64.99 -> Valid, Area = 778.63
+Record 8: 99.11 44.32 119.83 -> Valid, Area = 2100.03
+Record 9: 68.30 31.51 92.04 -> Valid, Area = 814.34
+Record 10: 60.55 57.72 3.55 -> Valid, Area = 63.34
+Record 11: 19.98 47.05 42.61 -> Valid, Area = 425.67
+Record 12: 72.54 13.08 85.39 -> Valid, Area = 96.09
+Record 13: 69.04 44.78 25.45 -> Valid, Area = 213.31
+Record 14: 37.80 99.59 65.43 -> Valid, Area = 649.93
+Record 15: 59.22 67.04 67.52 -> Valid, Area = 1788.80
+Record 16: -19.13 54.30 26.32 -> Invalid
+Record 17: -0.58 1.22 1.59 -> Invalid
+Record 18: 80.58 9.53 81.98 -> Valid, Area = 382.44
+Record 19: 95.72 90.03 80.13 -> Valid, Area = 3348.52
+Record 20: 73.80 13.19 86.87 -> Valid, Area = 71.06
+Record 21: 88.64 10.23 93.53 -> Valid, Area = 408.58
+Record 22: 40.66 12.94 46.45 -> Valid, Area = 249.22
+Record 23: 47.13 82.86 123.71 -> Valid, Area = 1181.87
+Record 24: 38.50 80.39 87.75 -> Valid, Area = 1546.30
+Record 25: 22.98 16.39 71.78 -> Invalid
+Record 26: 66.92 70.78 113.18 -> Valid, Area = 2217.94
+Record 27: 33.24 26.41 50.31 -> Valid, Area = 399.34
+Record 28: -10.54 94.34 1.73 -> Invalid
+Record 29: 76.53 96.60 147.42 -> Valid, Area = 3314.61
+Record 30: 76.72 29.18 68.58 -> Valid, Area = 997.15
+Record 31: 2.14 55.70 56.98 -> Valid, Area = 48.30
+Record 32: -16.04 31.60 86.33 -> Invalid
+Record 33: 46.62 84.37 38.79 -> Valid, Area = 279.07
+Record 34: -18.24 55.16 61.64 -> Invalid
+Record 35: 44.41 54.91 109.49 -> Invalid
+Record 36: 6.55 11.17 14.99 -> Valid, Area = 33.69
+Record 37: 9.78 4.76 8.06 -> Valid, Area = 19.08
+Record 38: 28.65 60.18 87.80 -> Valid, Area = 276.31
+Record 39: 23.93 83.35 66.95 -> Valid, Area = 646.45
+Record 40: -8.61 84.61 36.19 -> Invalid
+Record 41: 42.62 61.38 93.28 -> Valid, Area = 1050.51
+Record 42: -2.74 87.86 74.66 -> Invalid
+Record 43: 67.90 96.03 32.43 -> Valid, Area = 648.27
+Record 44: -12.08 94.71 25.88 -> Invalid
+Record 45: 85.14 15.84 106.41 -> Invalid
+Record 46: 81.86 21.65 70.83 -> Valid, Area = 703.95
+Record 47: 42.98 93.47 98.76 -> Valid, Area = 1997.91
+Record 48: 29.17 47.55 22.49 -> Valid, Area = 237.66
+Record 49: 25.55 81.37 86.13 -> Valid, Area = 1038.87
+Record 50: 23.22 53.01 49.12 -> Valid, Area = 569.18
+Record 51: 83.47 74.95 25.36 -> Valid, Area = 933.80
+Record 52: 59.93 55.27 99.93 -> Valid, Area = 1430.32
+Record 53: 78.68 88.48 138.74 -> Valid, Area = 3225.95
+Record 54: -15.60 23.29 88.29 -> Invalid
+Record 55: 98.65 1.32 97.76 -> Valid, Area = 47.87
+Record 56: 31.35 87.63 90.19 -> Valid, Area = 1367.25
+Record 57: 67.62 93.66 53.23 -> Valid, Area = 1766.99
+Record 58: -12.97 76.77 25.52 -> Invalid
+Record 59: 36.28 60.64 55.50 -> Valid, Area = 990.58
+Record 60: 50.05 11.60 60.88 -> Valid, Area = 114.62
+Record 61: 54.75 68.75 66.50 -> Valid, Area = 1691.34
+Record 62: 73.54 34.90 99.25 -> Valid, Area = 998.49
+Record 63: 18.65 48.80 52.18 -> Valid, Area = 455.06
+Record 64: 60.62 88.36 93.16 -> Valid, Area = 2584.86
+Record 65: 77.55 41.12 88.36 -> Valid, Area = 1594.22
+Record 66: 84.94 79.35 36.19 -> Valid, Area = 1432.50
+Record 67: 60.56 13.33 61.43 -> Valid, Area = 403.24
+Record 68: 98.20 66.27 50.48 -> Valid, Area = 1530.04
+Record 69: 5.83 5.88 0.66 -> Valid, Area = 1.92
+Record 70: 37.14 58.74 76.14 -> Valid, Area = 1063.65
+Record 71: 48.57 2.18 46.45 -> Valid, Area = 12.06
+Record 72: 57.51 7.12 79.21 -> Invalid
+Record 73: 64.06 67.00 17.02 -> Valid, Area = 544.63
+Record 74: 80.60 24.58 90.95 -> Valid, Area = 946.30
+Record 75: 52.43 15.90 56.97 -> Valid, Area = 412.34
+Record 76: 11.97 58.23 88.93 -> Invalid
+Record 77: 37.88 82.22 99.32 -> Valid, Area = 1500.28
+Record 78: -14.94 8.49 44.96 -> Invalid
+Record 79: 92.30 37.74 140.35 -> Invalid
+Record 80: 9.85 54.86 62.47 -> Valid, Area = 182.79
+Record 81: 87.69 64.53 108.77 -> Valid, Area = 2829.31
+Record 82: 34.22 55.60 39.79 -> Valid, Area = 675.57
+Record 83: 65.49 17.13 54.25 -> Valid, Area = 382.98
+Record 84: 88.64 38.50 107.75 -> Valid, Area = 1609.12
+Record 85: 92.93 78.82 184.72 -> Invalid
+Record 86: 87.56 68.47 142.05 -> Valid, Area = 2271.66
+Record 87: 99.54 5.98 97.58 -> Valid, Area = 278.29
+Record 88: -17.97 48.10 60.57 -> Invalid
+Record 89: -11.69 88.46 39.17 -> Invalid
+Record 90: -10.10 36.03 76.50 -> Invalid
+Record 91: 40.56 62.39 49.85 -> Valid, Area = 1009.21
+Record 92: 52.51 53.50 61.05 -> Valid, Area = 1322.57
+Record 93: 45.54 67.91 140.39 -> Invalid
+Record 94: 89.26 36.10 95.29 -> Valid, Area = 1610.44
+Record 95: 27.77 96.16 105.42 -> Valid, Area = 1306.79
+Record 96: 27.32 83.41 122.56 -> Invalid
+Record 97: 29.12 54.68 38.58 -> Valid, Area = 537.44
+Record 98: -15.50 60.42 7.65 -> Invalid
+Record 99: -12.71 41.70 87.89 -> Invalid
+Record 100: 83.00 58.92 42.67 -> Valid, Area = 1192.00
+Record 101: 49.75 79.79 38.27 -> Valid, Area = 733.59
+Record 102: 48.16 66.14 69.87 -> Valid, Area = 1526.86
+Record 103: -4.70 45.89 14.11 -> Invalid
+Record 104: 27.19 49.29 28.56 -> Valid, Area = 320.87
+Record 105: 5.16 83.62 81.65 -> Valid, Area = 196.95
+Record 106: -17.73 99.27 62.88 -> Invalid
+Record 107: 48.58 91.16 108.57 -> Valid, Area = 2196.59
+Record 108: 48.54 80.13 66.75 -> Valid, Area = 1617.07
+Record 109: 48.30 90.99 139.50 -> Invalid
+Record 110: 81.90 86.62 77.79 -> Valid, Area = 2901.88
+Record 111: 30.71 21.84 23.47 -> Valid, Area = 255.42
+Record 112: 26.04 77.63 99.04 -> Valid, Area = 647.50
+Record 113: 49.96 90.68 95.54 -> Valid, Area = 2229.99
+Record 114: 27.66 39.08 30.65 -> Valid, Area = 421.57
+Record 115: 29.49 98.00 90.26 -> Valid, Area = 1322.76
+Record 116: -7.62 37.44 12.07 -> Invalid
+Record 117: 77.58 97.68 155.78 -> Valid, Area = 3101.28
+Record 118: -0.64 81.73 55.55 -> Invalid
+Record 119: 12.96 93.03 103.90 -> Valid, Area = 346.69
+Record 120: 83.73 46.50 73.55 -> Valid, Area = 1704.27
+Record 121: 6.77 48.21 46.73 -> Valid, Area = 156.40
+Record 122: 80.83 53.58 123.24 -> Valid, Area = 1611.94
+Record 123: 71.80 47.44 86.08 -> Valid, Area = 1703.10
+Record 124: 65.64 29.41 52.14 -> Valid, Area = 744.98
+Record 125: -11.26 64.25 43.65 -> Invalid
+Record 126: 9.87 96.84 90.97 -> Valid, Area = 372.04
+Record 127: 78.51 39.78 93.70 -> Valid, Area = 1540.04
+Record 128: -0.37 83.28 78.99 -> Invalid
+Record 129: 69.92 78.13 51.01 -> Valid, Area = 1749.30
+Record 130: 13.66 61.86 117.29 -> Invalid
+Record 131: 90.73 44.17 103.29 -> Valid, Area = 2000.09
+Record 132: -15.75 51.49 39.75 -> Invalid
+Record 133: 65.18 39.27 124.74 -> Invalid
+Record 134: 43.44 47.22 82.84 -> Valid, Area = 762.05
+Record 135: 80.31 73.99 65.23 -> Valid, Area = 2269.61
+Record 136: 10.97 80.86 91.81 -> Valid, Area = 28.52
+Record 137: 74.19 18.71 87.13 -> Valid, Area = 541.33
+Record 138: 57.75 7.53 107.35 -> Invalid
+Record 139: 79.30 62.13 35.23 -> Valid, Area = 1053.41
+Record 140: 78.80 24.30 72.61 -> Valid, Area = 877.94
+Record 141: -5.86 72.42 91.11 -> Invalid
+Record 142: 12.62 67.32 69.02 -> Valid, Area = 424.40
+Record 143: 42.60 65.30 68.35 -> Valid, Area = 1345.67
+Record 144: 93.49 48.54 134.36 -> Valid, Area = 1457.45
+Record 145: 34.17 57.57 136.75 -> Invalid
+Record 146: 33.86 50.45 21.30 -> Valid, Area = 272.44
+Record 147: 14.07 40.42 27.17 -> Valid, Area = 78.23
+Record 148: 27.94 11.87 57.92 -> Invalid
+Record 149: 88.70 41.42 90.49 -> Valid, Area = 1803.57
+Record 150: 93.85 84.28 150.96 -> Valid, Area = 3561.47
+Record 151: 6.26 94.85 133.66 -> Invalid
+Record 152: 92.68 45.82 160.41 -> Invalid
+Record 153: 80.23 22.57 68.23 -> Valid, Area = 701.23
+Record 154: 57.59 79.26 70.37 -> Valid, Area = 1964.51
+Record 155: 81.15 17.54 123.78 -> Invalid
+Record 156: 5.60 45.36 43.93 -> Valid, Area = 120.62
+Record 157: -1.23 27.12 77.72 -> Invalid
+Record 158: 58.79 71.00 101.77 -> Valid, Area = 2034.59
+Record 159: 12.17 87.43 84.25 -> Valid, Area = 502.92
+Record 160: -5.19 51.19 72.79 -> Invalid
+Record 161: 90.20 80.90 152.66 -> Valid, Area = 2943.40
+Record 162: 52.69 61.59 126.03 -> Invalid
+Record 163: 21.32 86.77 90.14 -> Valid, Area = 924.29
+Record 164: -8.46 61.65 17.05 -> Invalid
+Record 165: 19.09 43.97 31.91 -> Valid, Area = 271.69
+Record 166: 5.41 51.50 48.81 -> Valid, Area = 117.54
+Record 167: 88.52 64.53 53.34 -> Valid, Area = 1708.57
+Record 168: 3.78 44.70 47.38 -> Valid, Area = 61.31
+Record 169: 99.58 41.89 59.62 -> Valid, Area = 482.60
+Record 170: 22.23 33.41 51.89 -> Valid, Area = 254.38
+Record 171: 7.30 1.23 36.08 -> Invalid
+Record 172: 62.59 74.90 172.71 -> Invalid
+Record 173: 56.77 85.68 95.55 -> Valid, Area = 2405.46
+Record 174: 21.46 69.78 90.30 -> Valid, Area = 249.13
+Record 175: 81.43 91.50 102.70 -> Valid, Area = 3554.98
+Record 176: 25.16 34.20 24.74 -> Valid, Area = 310.66
+Record 177: 11.14 36.13 35.58 -> Valid, Area = 197.05
+Record 178: 61.47 85.47 30.58 -> Valid, Area = 680.92
+Record 179: 42.60 95.06 138.56 -> Invalid
+Record 180: 74.88 90.56 84.49 -> Valid, Area = 2952.24
+Record 181: -11.30 70.77 30.83 -> Invalid
+Record 182: -7.01 60.91 34.93 -> Invalid
+Record 183: 92.80 1.35 92.58 -> Valid, Area = 61.73
+Record 184: 79.35 21.55 98.60 -> Valid, Area = 427.78
+Record 185: -11.34 65.36 84.93 -> Invalid
+Record 186: 90.76 46.46 98.99 -> Valid, Area = 2103.07
+Record 187: 64.04 15.47 65.27 -> Valid, Area = 494.94
+Record 188: 13.71 95.49 92.36 -> Valid, Area = 625.18
+Record 189: 45.79 93.50 113.99 -> Valid, Area = 2071.80
+Record 190: 36.28 79.29 82.99 -> Valid, Area = 1427.14
+Record 191: 97.66 70.04 28.34 -> Valid, Area = 262.29
+Record 192: -2.99 88.23 52.14 -> Invalid
+Record 193: 69.28 23.60 75.33 -> Valid, Area = 813.63
+Record 194: 8.43 95.81 102.29 -> Valid, Area = 266.80
+Record 195: 3.95 76.77 79.62 -> Valid, Area = 106.90
+Record 196: 88.24 91.52 11.46 -> Valid, Area = 492.46
+Record 197: 27.33 51.95 124.23 -> Invalid
+Record 198: 24.03 4.05 20.11 -> Valid, Area = 11.19
+Record 199: 26.69 39.88 17.28 -> Valid, Area = 179.42
+Record 200: 52.68 38.73 58.95 -> Valid, Area = 1000.35
+Record 201: 28.61 89.64 111.90 -> Valid, Area = 896.39
+Record 202: 35.11 20.85 45.87 -> Valid, Area = 349.37
+Record 203: 29.55 42.82 95.45 -> Invalid
+Record 204: -14.41 58.65 94.78 -> Invalid
+Record 205: 7.39 92.41 86.25 -> Valid, Area = 182.19
+Record 206: 75.25 17.68 75.90 -> Valid, Area = 663.05
+Record 207: 40.17 56.96 52.82 -> Valid, Area = 1020.54
+Record 208: 42.55 3.45 42.14 -> Valid, Area = 72.47
+Record 209: 71.04 37.79 136.60 -> Invalid
+Record 210: 1.31 93.07 93.09 -> Valid, Area = 60.96
+Record 211: 1.73 64.68 64.62 -> Valid, Area = 55.88
+Record 212: 5.40 74.83 79.32 -> Valid, Area = 115.54
+Record 213: 67.45 56.24 75.29 -> Valid, Area = 1826.57
+Record 214: 25.26 75.76 98.64 -> Valid, Area = 461.77
+Record 215: 10.20 42.61 41.50 -> Valid, Area = 211.63
+Record 216: 73.82 24.61 143.12 -> Invalid
+Record 217: 58.13 56.42 122.48 -> Invalid
+Record 218: -8.04 53.03 46.19 -> Invalid
+Record 219: -6.68 16.38 91.61 -> Invalid
+Record 220: 29.30 84.57 65.90 -> Valid, Area = 833.20
+Record 221: -17.15 16.53 94.25 -> Invalid
+Record 222: -3.45 4.82 51.36 -> Invalid
+Record 223: 75.51 74.38 135.99 -> Valid, Area = 2143.04
+Record 224: 5.94 95.48 91.10 -> Valid, Area = 187.06
+Record 225: 70.75 98.43 31.54 -> Valid, Area = 628.25
+Record 226: 38.97 99.42 135.89 -> Valid, Area = 796.73
+Record 227: -18.77 89.39 16.85 -> Invalid
+Record 228: 66.08 22.07 66.06 -> Valid, Area = 718.84
+Record 229: 86.39 66.64 87.11 -> Valid, Area = 2668.64
+Record 230: 16.43 8.34 22.37 -> Valid, Area = 55.46
+Record 231: 73.09 78.30 46.04 -> Valid, Area = 1649.30
+Record 232: 55.51 61.47 78.36 -> Valid, Area = 1696.59
+Record 233: 18.35 59.13 89.68 -> Invalid
+Record 234: 9.77 27.75 22.50 -> Valid, Area = 101.53
+Record 235: 8.25 58.63 56.35 -> Valid, Area = 227.32
+Record 236: 62.64 80.15 72.60 -> Valid, Area = 2165.77
+Record 237: -4.79 69.92 3.33 -> Invalid
+Record 238: 69.99 19.98 68.30 -> Valid, Area = 681.06
+Record 239: -7.24 16.69 90.95 -> Invalid
+Record 240: 58.09 11.81 87.18 -> Invalid
+Record 241: 40.00 52.88 58.82 -> Valid, Area = 1031.36
+Record 242: 29.52 34.87 111.18 -> Invalid
+Record 243: 77.07 63.89 69.27 -> Valid, Area = 2087.15
+Record 244: 10.87 42.49 77.05 -> Invalid
+Record 245: 59.20 61.67 65.45 -> Valid, Area = 1661.51
+Record 246: 29.96 51.64 100.32 -> Invalid
+Record 247: 47.25 81.56 67.56 -> Valid, Area = 1595.69
+Record 248: 38.53 48.58 81.25 -> Valid, Area = 633.12
+Record 249: 56.17 82.86 179.12 -> Invalid
+Record 250: 49.59 38.91 14.38 -> Valid, Area = 210.22
+Record 251: 80.14 58.78 123.77 -> Valid, Area = 1922.73
+Record 252: 64.28 44.21 30.84 -> Valid, Area = 608.90
+Record 253: -12.41 61.34 92.20 -> Invalid
+Record 254: 78.61 2.82 81.17 -> Valid, Area = 47.24
+Record 255: 84.84 37.99 71.26 -> Valid, Area = 1342.97
+Record 256: 14.63 43.64 35.13 -> Valid, Area = 230.27
+Record 257: 62.04 29.54 79.81 -> Valid, Area = 818.48
+Record 258: 18.74 35.03 46.49 -> Valid, Area = 294.09
+Record 259: -4.26 44.63 41.38 -> Invalid
+Record 260: 98.61 73.37 42.65 -> Valid, Area = 1431.98
+Record 261: 56.21 88.37 97.51 -> Valid, Area = 2456.65
+Record 262: 54.17 50.35 77.69 -> Valid, Area = 1356.36
+Record 263: 16.90 74.70 93.43 -> Invalid
+Record 264: 42.72 40.24 34.05 -> Valid, Area = 642.26
+Record 265: 80.81 80.33 122.80 -> Valid, Area = 3203.13
+Record 266: -19.51 60.09 58.50 -> Invalid
+Record 267: 24.17 82.59 118.07 -> Invalid
+Record 268: 47.03 93.13 124.21 -> Valid, Area = 1872.41
+Record 269: 5.36 12.51 8.34 -> Valid, Area = 16.96
+Record 270: 99.50 24.10 81.40 -> Valid, Area = 713.22
+Record 271: 72.33 21.84 84.14 -> Valid, Area = 711.61
+Record 272: 72.78 90.95 172.66 -> Invalid
+Record 273: 90.79 38.74 115.40 -> Valid, Area = 1514.77
+Record 274: 1.66 39.47 40.74 -> Valid, Area = 21.43
+Record 275: 94.72 20.90 146.88 -> Invalid
+Record 276: 75.65 87.70 165.85 -> Invalid
+Record 277: 58.48 24.62 39.02 -> Valid, Area = 355.70
+Record 278: -4.24 47.73 58.89 -> Invalid
+Record 279: 50.03 25.43 71.58 -> Valid, Area = 401.40
+Record 280: 96.86 71.77 152.93 -> Valid, Area = 2679.72
+Record 281: 48.35 63.01 55.46 -> Valid, Area = 1291.28
+Record 282: 96.46 58.89 112.36 -> Valid, Area = 2840.02
+Record 283: 23.57 94.47 100.13 -> Valid, Area = 1104.93
+Record 284: 12.00 97.07 85.26 -> Valid, Area = 96.74
+Record 285: 24.60 16.61 40.83 -> Valid, Area = 55.89
+Record 286: 40.98 81.67 57.58 -> Valid, Area = 1102.98
+Record 287: 10.86 21.42 67.59 -> Invalid
+Record 288: -10.62 1.34 42.17 -> Invalid
+Record 289: 33.37 78.14 76.50 -> Valid, Area = 1258.17
+Record 290: 36.76 75.62 128.68 -> Invalid
+Record 291: 52.53 21.15 71.79 -> Valid, Area = 267.66
+Record 292: 88.45 10.51 85.62 -> Valid, Area = 439.67
+Record 293: 54.04 64.12 143.87 -> Invalid
+Record 294: 37.93 57.03 49.18 -> Valid, Area = 920.36
+Record 295: 87.57 9.62 78.73 -> Valid, Area = 157.50
+Record 296: 5.67 46.43 76.92 -> Invalid
+Record 297: 10.72 22.97 32.21 -> Valid, Area = 73.55
+Record 298: 7.99 4.48 9.93 -> Valid, Area = 17.52
+Record 299: 2.87 40.99 38.99 -> Valid, Area = 41.13
+Record 300: 88.71 48.10 84.45 -> Valid, Area = 1992.44
+Record 301: 17.61 39.65 67.72 -> Invalid
+Record 302: 9.06 67.90 62.44 -> Valid, Area = 235.02
+Record 303: 38.24 55.99 91.82 -> Valid, Area = 476.90
+Record 304: 83.51 3.39 126.32 -> Invalid
+Record 305: 81.19 83.25 165.29 -> Invalid
+Record 306: 4.75 7.54 5.66 -> Valid, Area = 13.43
+Record 307: -4.37 81.09 55.31 -> Invalid
+Record 308: 88.71 12.35 83.46 -> Valid, Area = 479.91
+Record 309: -12.68 59.81 10.82 -> Invalid
+Record 310: 4.11 91.55 92.20 -> Valid, Area = 186.38
+Record 311: 19.16 2.89 18.71 -> Valid, Area = 26.95
+Record 312: 26.52 99.72 75.35 -> Valid, Area = 452.53
+Record 313: 71.44 48.96 84.46 -> Valid, Area = 1746.44
+Record 314: 10.78 6.72 14.08 -> Valid, Area = 35.03
+Record 315: 58.24 58.83 12.52 -> Valid, Area = 363.92
+Record 316: -13.81 67.00 8.37 -> Invalid
+Record 317: 74.43 39.23 91.90 -> Valid, Area = 1419.39
+Record 318: 61.57 42.90 43.84 -> Valid, Area = 940.34
+Record 319: 20.75 6.32 31.86 -> Invalid
+Record 320: 25.62 45.96 63.76 -> Valid, Area = 491.47
+Record 321: -12.11 48.04 23.94 -> Invalid
+Record 322: 66.63 61.97 98.89 -> Valid, Area = 2030.22
+Record 323: 82.26 6.04 83.05 -> Valid, Area = 247.31
+Record 324: 42.40 47.37 11.48 -> Valid, Area = 230.34
+Record 325: 73.30 78.31 37.15 -> Valid, Area = 1352.68
+Record 326: 50.41 2.20 50.45 -> Valid, Area = 55.45
+Record 327: 86.88 77.34 89.63 -> Valid, Area = 3065.83
+Record 328: 51.37 34.44 78.24 -> Valid, Area = 672.96
+Record 329: 57.76 87.65 145.47 -> Invalid
+Record 330: 40.24 70.24 155.93 -> Invalid
+Record 331: -7.49 64.58 83.76 -> Invalid
+Record 332: 39.25 26.76 22.47 -> Valid, Area = 289.84
+Record 333: 50.42 18.71 42.56 -> Valid, Area = 386.60
+Record 334: 38.92 32.12 68.19 -> Valid, Area = 337.89
+Record 335: 50.08 83.96 69.89 -> Valid, Area = 1747.94
+Record 336: 22.29 56.07 105.96 -> Invalid
+Record 337: 80.05 9.65 135.64 -> Invalid
+Record 338: 49.80 72.93 138.12 -> Invalid
+Record 339: 43.08 48.97 39.20 -> Valid, Area = 806.94
+Record 340: 29.14 86.56 71.43 -> Valid, Area = 966.78
+Record 341: -4.05 8.64 61.18 -> Invalid
+Record 342: 56.87 13.38 53.60 -> Valid, Area = 355.68
+Record 343: 17.29 46.69 42.19 -> Valid, Area = 363.86
+Record 344: 38.08 97.43 77.77 -> Valid, Area = 1394.28
+Record 345: 83.20 59.47 92.27 -> Valid, Area = 2425.69
+Record 346: 80.76 83.27 136.68 -> Valid, Area = 3098.31
+Record 347: 56.66 71.75 87.21 -> Valid, Area = 2023.95
+Record 348: 21.51 77.22 93.85 -> Valid, Area = 578.83
+Record 349: 87.22 95.65 82.44 -> Valid, Area = 3346.60
+Record 350: 71.19 5.62 67.37 -> Valid, Area = 142.67
+Record 351: 65.37 19.07 120.90 -> Invalid
+Record 352: 98.13 60.55 113.04 -> Valid, Area = 2968.06
+Record 353: 33.14 15.55 25.73 -> Valid, Area = 194.06
+Record 354: 57.85 86.17 50.74 -> Valid, Area = 1418.67
+Record 355: 43.05 32.18 64.78 -> Valid, Area = 610.68
+Record 356: 96.60 33.43 96.98 -> Valid, Area = 1593.43
+Record 357: 29.29 12.38 28.39 -> Valid, Area = 173.90
+Record 358: 9.50 12.91 71.69 -> Invalid
+Record 359: 14.28 44.40 53.11 -> Valid, Area = 272.88
+Record 360: 34.45 40.76 65.91 -> Valid, Area = 594.19
+Record 361: 28.82 77.55 70.58 -> Valid, Area = 1015.80
+Record 362: 30.93 6.90 57.56 -> Invalid
+Record 363: 29.79 32.71 46.49 -> Valid, Area = 484.54
+Record 364: 3.79 14.62 16.95 -> Valid, Area = 23.42
+Record 365: 71.02 91.71 144.84 -> Valid, Area = 2658.45
+Record 366: -3.12 49.67 8.42 -> Invalid
+Record 367: 97.68 48.15 60.89 -> Valid, Area = 1173.28
+Record 368: 94.60 73.90 127.40 -> Valid, Area = 3465.72
+Record 369: -2.71 65.46 61.23 -> Invalid
+Record 370: 24.07 11.59 16.37 -> Valid, Area = 83.90
+Record 371: 49.33 71.96 100.29 -> Valid, Area = 1666.19
+Record 372: -5.02 9.30 5.06 -> Invalid
+Record 373: 7.09 38.90 93.46 -> Invalid
+Record 374: 47.50 29.40 55.85 -> Valid, Area = 698.25
+Record 375: 7.43 16.69 21.24 -> Valid, Area = 54.62
+Record 376: 13.92 57.67 57.18 -> Valid, Area = 396.49
+Record 377: 39.81 61.98 29.69 -> Valid, Area = 480.69
+Record 378: 85.59 43.46 91.02 -> Valid, Area = 1845.29
+Record 379: 11.96 64.03 61.20 -> Valid, Area = 362.14
+Record 380: 83.42 93.31 175.07 -> Valid, Area = 1055.99
+Record 381: 1.87 23.52 74.27 -> Invalid
+Record 382: 43.32 60.62 92.98 -> Valid, Area = 1061.03
+Record 383: 68.14 6.01 64.78 -> Valid, Area = 165.42
+Record 384: 54.33 53.88 110.69 -> Invalid
+Record 385: -6.18 69.33 88.44 -> Invalid
+Record 386: -8.66 22.93 86.41 -> Invalid
+Record 387: 77.45 72.49 45.90 -> Valid, Area = 1628.37
+Record 388: 86.14 91.58 56.50 -> Valid, Area = 2369.00
+Record 389: 43.63 99.88 88.85 -> Valid, Area = 1937.75
+Record 390: 85.76 49.17 140.90 -> Invalid
+Record 391: 57.66 51.74 48.98 -> Valid, Area = 1189.06
+Record 392: 56.02 48.63 19.66 -> Valid, Area = 468.15
+Record 393: -6.78 32.59 35.39 -> Invalid
+Record 394: 47.01 26.89 61.91 -> Valid, Area = 590.66
+Record 395: -15.72 42.44 86.54 -> Invalid
+Record 396: 12.94 26.71 55.97 -> Invalid
+Record 397: 73.96 81.84 125.58 -> Valid, Area = 2889.33
+Record 398: 1.45 28.97 27.83 -> Valid, Area = 12.72
+Record 399: 96.44 72.30 194.02 -> Invalid
+Record 400: 71.19 37.57 95.31 -> Valid, Area = 1168.09
+Record 401: -15.29 61.37 23.49 -> Invalid
+Record 402: 87.55 66.04 60.61 -> Valid, Area = 1999.21
+Record 403: 38.62 14.89 34.30 -> Valid, Area = 254.30
+Record 404: 32.87 42.86 22.40 -> Valid, Area = 362.59
+Record 405: 2.01 95.88 94.98 -> Valid, Area = 85.75
+Record 406: -0.85 82.63 87.75 -> Invalid
+Record 407: 68.59 38.55 67.32 -> Valid, Area = 1255.36
+Record 408: 41.08 45.77 24.59 -> Valid, Area = 502.66
+Record 409: 87.84 12.22 76.25 -> Valid, Area = 158.44
+Record 410: 37.26 58.56 25.20 -> Valid, Area = 311.24
+Record 411: 4.66 3.10 2.71 -> Valid, Area = 4.03
+Record 412: -7.27 41.63 45.39 -> Invalid
+Record 413: 9.94 76.63 75.51 -> Valid, Area = 374.86
+Record 414: 46.94 14.09 35.31 -> Valid, Area = 161.14
+Record 415: 80.47 91.37 12.47 -> Valid, Area = 259.54
+Record 416: 95.58 4.23 105.86 -> Invalid
+Record 417: 61.68 86.15 111.88 -> Valid, Area = 2637.19
+Record 418: 63.90 70.93 149.81 -> Invalid
+Record 419: 63.49 52.53 77.86 -> Valid, Area = 1657.60
+Record 420: 36.49 18.86 37.42 -> Valid, Area = 336.54
+Record 421: 76.28 53.96 90.25 -> Valid, Area = 2052.83
+Record 422: 60.31 89.24 79.65 -> Valid, Area = 2348.28
+Record 423: 59.68 78.38 47.12 -> Valid, Area = 1403.15
+Record 424: 36.82 43.55 59.95 -> Valid, Area = 797.19
+Record 425: -10.03 91.13 43.07 -> Invalid
+Record 426: 90.08 44.11 65.89 -> Valid, Area = 1379.54
+Record 427: 32.20 18.56 94.87 -> Invalid
+Record 428: 88.01 88.64 196.63 -> Invalid
+Record 429: 90.24 77.76 136.39 -> Valid, Area = 3330.61
+Record 430: -17.51 41.01 26.27 -> Invalid
+Record 431: 50.19 42.48 14.80 -> Valid, Area = 288.92
+Record 432: 58.28 93.82 134.10 -> Valid, Area = 2320.20
+Record 433: 14.43 29.39 72.23 -> Invalid
+Record 434: 62.04 72.08 73.82 -> Valid, Area = 2047.33
+Record 435: 99.39 18.46 126.04 -> Invalid
+Record 436: 18.45 33.68 84.89 -> Invalid
+Record 437: 66.47 91.42 94.54 -> Valid, Area = 2882.86
+Record 438: 45.43 79.31 64.44 -> Valid, Area = 1463.64
+Record 439: 27.89 91.35 128.84 -> Invalid
+Record 440: 47.43 82.24 119.72 -> Valid, Area = 1426.52
+Record 441: 30.11 62.13 139.11 -> Invalid
+Record 442: 78.80 1.63 78.85 -> Valid, Area = 64.21
+Record 443: 72.81 98.98 109.73 -> Valid, Area = 3521.35
+Record 444: 15.09 7.01 16.93 -> Valid, Area = 52.83
+Record 445: 91.26 4.20 95.44 -> Valid, Area = 19.10
+Record 446: 86.80 71.98 64.22 -> Valid, Area = 2268.47
+Record 447: 48.28 19.74 112.91 -> Invalid
+Record 448: -3.99 75.91 20.68 -> Invalid
+Record 449: 9.95 91.20 100.50 -> Valid, Area = 169.30
+Record 450: -14.02 62.99 99.49 -> Invalid
+Record 451: 67.94 97.57 170.62 -> Invalid
+Record 452: 81.64 4.79 82.85 -> Valid, Area = 190.51
+Record 453: 63.75 66.82 122.18 -> Valid, Area = 1406.14
+Record 454: 45.04 36.35 29.55 -> Valid, Area = 535.47
+Record 455: 33.00 7.18 27.95 -> Valid, Area = 77.23
+Record 456: 70.70 11.80 72.87 -> Valid, Area = 414.90
+Record 457: 90.40 33.31 59.23 -> Valid, Area = 428.39
+Record 458: 64.20 7.52 63.31 -> Valid, Area = 237.62
+Record 459: -2.86 69.83 23.13 -> Invalid
+Record 460: 50.62 38.73 96.28 -> Invalid
+Record 461: 11.29 66.31 60.49 -> Valid, Area = 305.46
+Record 462: 67.08 45.44 35.41 -> Valid, Area = 748.37
+Record 463: 21.37 16.62 33.08 -> Valid, Area = 152.89
+Record 464: 37.54 76.56 102.11 -> Valid, Area = 1201.10
+Record 465: 44.87 5.23 88.94 -> Invalid
+Record 466: 21.72 43.55 44.98 -> Valid, Area = 465.01
+Record 467: 75.86 89.00 190.59 -> Invalid
+Record 468: 9.50 70.89 75.13 -> Valid, Area = 309.68
+Record 469: 87.75 19.41 81.36 -> Valid, Area = 769.74
+Record 470: -1.92 80.42 16.17 -> Invalid
+Record 471: 66.83 31.07 81.25 -> Valid, Area = 996.15
+Record 472: 36.66 95.75 85.46 -> Valid, Area = 1561.06
+Record 473: 95.95 62.63 97.69 -> Valid, Area = 2867.85
+Record 474: 84.47 73.27 137.48 -> Valid, Area = 2649.27
+Record 475: -2.56 56.68 79.90 -> Invalid
+Record 476: 65.88 27.17 43.37 -> Valid, Area = 402.51
+Record 477: 23.95 19.14 34.23 -> Valid, Area = 221.76
+Record 478: -12.92 21.14 74.25 -> Invalid
+Record 479: 2.39 47.42 48.05 -> Valid, Area = 55.01
+Record 480: 64.74 99.13 161.93 -> Valid, Area = 994.54
+Record 481: 99.56 97.99 102.93 -> Valid, Area = 4338.41
+Record 482: 87.10 61.78 139.77 -> Valid, Area = 1762.19
+Record 483: 42.48 95.23 80.51 -> Valid, Area = 1698.81
+Record 484: -8.04 59.44 81.17 -> Invalid
+Record 485: 76.24 83.81 99.49 -> Valid, Area = 3109.24
+Record 486: -9.06 82.80 24.95 -> Invalid
+Record 487: 61.78 23.97 70.20 -> Valid, Area = 728.17
+Record 488: 6.27 71.03 69.57 -> Valid, Area = 214.12
+Record 489: -11.64 25.30 34.87 -> Invalid
+Record 490: 27.12 96.95 95.48 -> Valid, Area = 1289.75
+Record 491: -11.82 15.55 5.27 -> Invalid
+Record 492: 7.34 29.62 26.98 -> Valid, Area = 96.09
+Record 493: 85.89 72.12 18.53 -> Valid, Area = 486.43
+Record 494: 52.01 95.46 146.70 -> Valid, Area = 527.20
+Record 495: 98.02 65.78 52.11 -> Valid, Area = 1589.37
+Record 496: 94.25 95.26 1.90 -> Valid, Area = 76.24
+Record 497: -1.47 38.95 62.53 -> Invalid
+Record 498: 93.22 46.41 52.19 -> Valid, Area = 747.22
+Record 499: 29.36 39.90 57.66 -> Valid, Area = 543.79
+Record 500: -19.04 1.28 49.94 -> Invalid
